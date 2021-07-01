@@ -1,4 +1,4 @@
-## Eu sou a Cristiano Gonçalves 
+## Eu sou o Cristiano Gonçalves 
  <div>
   <a href="https://github.com/CPrimbee">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cprimbee&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
